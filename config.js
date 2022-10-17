@@ -80,58 +80,58 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285380166282', 'Kahfi-XD', true],
-['6282229451290', 'Friend', true]
+['6288210072756', 'LuxxyXD', true],
+['6288210072756', 'Luxxy Juga', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.nomorown1 = '6285380166282'
-global.nomorown2 = '6285380166282'
+global.nomorbot = '6287818916348'
+global.nomorown = '6288210072756'
+global.nomorown1 = '6288210072756'
+global.nomorown2 = '6288210072756'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 X 𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
+global.author = 'LuxxyXD'
 global.namebot = '​ 𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.wm = '© Created By LuxxyXD'
 global.media = 'https://telegra.ph/file/164709f787e0305472579.jpg'
-global.wm = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
+global.wm = 'LuxxyXD'
 global.watermark = wm
-global.wm2 = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 '
+global.wm2 = 'LuxxyXD '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 𝐗 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿`
-global.stickpack = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 𝐗 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
-global.stickauth = `© 𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 MD`
+global.titlebot = `LuxxyXD`
+global.stickpack = 'LuccyBot By'
+global.stickauth = `© LuxxyXD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
-global.nameown2 = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
+global.nameown1= 'LuxxyXD'
+global.nameown2 = 'LuxxyXD'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/maxxy_ofc'
-global.sgh = 'https://github.com/Maxxy Botz' //github
+global.sig = 'https://instagram.com/luxxyxyz'
+global.sgh = 'https://github.com/luxxyanjaymabar' //github
 global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085380166282'
+global.pdana = '088210072756'
 global.povo = '-'
 global.pgopay = ''
 global.plinkaja = '-' //link aja
-global.ppulsa = '085380166282'
-global.ppulsa2 = '085295374964'
-global.psaweria = 'https://saweria.co/MaxxyBotz'
+global.ppulsa = '088210072756'
+global.ppulsa2 = '088210072756'
+global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -343,9 +343,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/maxxy_ofc"
+global.urlnya = "https://www.instagram.com/luxxyxyz"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0853-8016-6282'
+global.phn = '0882-1007-2756'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
